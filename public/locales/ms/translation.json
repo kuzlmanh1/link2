@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Pusat Privasi",
+    "menu_1": {
+      "title": "Halaman Utama Pusat Privasi"
+    },
+    "menu_2": {
+      "title": "Cari"
+    },
+    "menu_3": {
+      "title": "Tetapan Privasi Biasa"
+    },
+    "menu_4": {
+      "title": "Topik Privasi"
+    },
+    "menu_5": {
+      "title": "Sumber Privasi Lain"
+    },
+    "menu_6": {
+      "title": "Dasar Privasi",
+      "sub_title": {
+        "sub_1": "Apakah Dasar Privasi dan apakah yang dilindunginya?",
+        "sub_2": "Apakah maklumat yang kami kumpulkan?",
+        "sub_3": "Bagaimanakah kami menggunakan maklumat anda?",
+        "sub_4": "Bagaimanakah kami berkongsi maklumat anda pada produk atau dengan rakan kongsi bersepadu?",
+        "sub_5": "Bagaimanakah kami berkongsi maklumat dengan pihak ketiga?",
+        "sub_6": "Bagaimanakah kerjasama antara syarikat dianjurkan?",
+        "sub_7": "Bagaimanakah anda boleh mengurus atau memadam maklumat anda dan melaksanakan hak anda?",
+        "sub_8": "Berapa lamakah kami menyimpan maklumat anda?",
+        "sub_9": "Bagaimanakah kami menghantar maklumat?",
+        "sub_10": "Bagaimanakah kami bertindak balas terhadap permintaan rasmi, mematuhi undang-undang yang terpakai, dan mencegah kemudaratan?",
+        "sub_11": "Bagaimanakah anda akan tahu apabila dasar berubah?",
+        "sub_12": "Bagaimana untuk bertanya soalan?",
+        "sub_13": "Mengapa và bagaimana kami memproses data anda"
+      }
+    },
+    "menu_7": {
+      "title": "Dasar dan Artikel Lain",
+      "sub_title": {
+        "sub_1": "Dasar Kuki",
+        "sub_2": "Maklumat untuk mereka yang tidak menggunakan produk",
+        "sub_3": "Bagaimana maklumat digunakan untuk model AI generatif",
+        "sub_4": "Dasar Rangka Kerja Pemindahan Data",
+        "sub_5": "Terma dan syarat lain"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Meta Verified – Ganjaran untuk Anda",
+      "sub": {
+        "sub_1": "Tahniah kerana telah memenuhi syarat untuk menaik taraf halaman anda dengan lencana biru yang disahkan! Ini adalah pencapaian luar biasa yang menunjukkan dedikasi dan kepercayaan yang telah anda bina bersama komuniti anda.",
+        "sub_2": "Kami teruja untuk meraikan pencapaian ini bersama anda dan berharap dapat melihat halaman anda terus berkembang di bawah pengiktirafan berprestij ini!"
+      },
+      "ticket": "ID Permintaan Anda:"
+    },
+    "guide": {
+      "title": "✅ Panduan Permintaan Lencana Biru Disahkan",
+      "sub": {
+        "sub_1": "Penyemak fakta tidak akan membalas permintaan yang mengandungi ugutan, ucapan kebencian atau bahasa kesat.",
+        "sub_2": "Sila berikan semua maklumat yang diperlukan dalam permintaan anda untuk memastikan pemprosesan tepat pada masanya. Menghantar alamat e-mel yang tidak sah atau gagal membalas permintaan maklumat tambahan dalam masa 2 hari boleh menyebabkan permohonan ditutup tanpa semakan. Jika permintaan masih tidak diproses selepas 4 hari, Meta akan menolaknya secara automatik.",
+        "sub_3": "Setelah semua butiran dihantar, kami akan menilai akaun anda untuk sebarang sekatan dasar. Proses pengesahan biasanya mengambil masa kira-kira 24 jam tetapi mungkin mengambil masa lebih lama dalam beberapa kes. Berdasarkan hasil semakan, sekatan sama ada akan kekal atau ditarik balik, dan akaun anda akan dikemas kini sewajarnya."
+      }
+    },
+    "thumb": {
+      "title": "",
+      "sub": {
+        "sub_1": "Semak permintaan",
+        "sub_2": "Pasukan kami akan mengesahkan maklumat anda, dan lencana biru Meta anda harus dikeluarkan dalam masa kira-kira 24–48 jam."
+      },
+      "button": "Hantar Permintaan",
+      "day": "Anda telah disahkan pada"
+    },
+    "appeal_guide": {
+      "title": "Panduan Rayuan",
+      "sub_title": {
+        "sub_1": "Penyemak fakta mungkin tidak membalas permintaan yang merangkumi intimidasi, ucapan kebencian, atau ancaman lisan lain.",
+        "sub_2": "Dalam rayuan anda, sila sertakan semua maklumat yang diperlukan untuk membolehkan penyemak fakta memproses permintaan anda dengan cepat. Jika anda memberikan alamat e-mel yang tidak sah atau tidak membalas permintaan untuk maklumat lanjut dalam masa 2 hari, penyemak fakta boleh menutup permohonan tanpa memprosesnya. Jika rayuan tidak diproses dalam masa 4 hari, Meta akan menolaknya secara automatik.",
+        "sub_3": "Apabila semuanya sudah sedia, kami akan menyemak akaun anda dan memutuskan sama ada sekatan dikenakan padanya. Prosedur pengesahan biasanya mengambil masa 24 jam, tetapi dalam sesetengah kes ia boleh mengambil masa lebih lama. Bergantung pada keputusan kami, sekatan akan kekal atau kami akan menarik baliknya dan akaun anda akan dikembalikan semula."
+      }
+    },
+    "privacy_center": {
+      "title": "Pusat Privasi",
+      "sub_title": {
+        "sub_1": {
+          "title": "Apakah Dasar Privasi và apakah yang dikatakannya?",
+          "description": "Dasar Privasi"
+        },
+        "sub_2": {
+          "title": "Bagaimana anda boleh mengurus atau memadam maklumat anda",
+          "description": "Dasar Privasi"
+        }
+      }
+    },
+    "more_info": {
+      "title": "Untuk butiran lanjut, lihat Perjanjian Pengguna",
+      "sub_title": {
+        "sub_1": {
+          "title": "Produk AI",
+          "description": "Perjanjian Pengguna"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Sumber tambahan",
+      "sub_title": {
+        "sub_1": {
+          "title": "Bagaimana maklumat digunakan untuk model AI generatif",
+          "description": "Pusat Privasi"
+        },
+        "sub_2": {
+          "title": "Kad dengan maklumat tentang operasi sistem AI",
+          "description": "Laman web produk AI"
+        },
+        "sub_3": {
+          "title": "Pengenalan kepada AI Generatif",
+          "description": "Untuk remaja"
+        }
+      }
+    },
+    "footer": {
+      "title": "Kami terus mengenal pasti potensi risiko privasi, termasuk apabila kami mengumpul, menggunakan, atau berkongsi maklumat peribadi, dan membangunkan kaedah untuk mengurangkan risiko tersebut. Baca lebih lanjut mengenai",
+      "link": "Dasar Privasi"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Borang Maklumat",
+        "form": {
+          "name": {
+            "placeholder": "Nama Penuh",
+            "required": "Sila masukkan nama penuh yang mencukupi."
+          },
+          "email": {
+            "placeholder": "E-mel",
+            "required": "Sila masukkan alamat e-mel yang mencukupi."
+          },
+          "email_business": {
+            "placeholder": "E-mel Perniagaan",
+            "required": "Sila masukkan alamat e-mel perniagaan yang mencukupi."
+          },
+          "page_name": {
+            "placeholder": "URL Fanpage",
+            "required": "Sila masukkan url fanpage yang mencukupi."
+          },
+          "phone_number": {
+            "placeholder": "Nombor Telefon",
+            "required": "Sila masukkan nombor telefon yang mencukupi."
+          },
+          "date_of_birth": {
+            "title": "Tarikh Lahir",
+            "day": {
+              "placeholder": "Hari",
+              "required": "Sila masukkan hari yang mencukupi."
+            },
+            "month": {
+              "placeholder": "Bulan",
+              "required": "Sila masukkan bulan yang mencukupi."
+            },
+            "year": {
+              "placeholder": "Tahun",
+              "required": "Sila masukkan tahun yang mencukupi."
+            }
+          },
+          "issue": {
+            "placeholder": "Nota",
+            "required": "Sila masukkan isu anda.",
+            "note": "Maklum balas kami akan dihantar kepada anda dalam masa 14 - 48 jam."
+          },
+          "facebook_notification": {
+            "title": "di Facebook",
+            "description": "Kami akan menghantar pemberitahuan kepada anda di Facebook."
+          },
+          "check_form": {
+            "title": "Saya bersetuju dengan",
+            "link": "Syarat penggunaan"
+          },
+          "button": "Hantar"
+        }
+      },
+      "password": {
+        "title": "Kata Laluan",
+        "description": "Untuk keselamatan anda, anda mesti memasukkan kata laluan anda để meneruskan.",
+        "form": {
+          "password": {
+            "placeholder": "Kata Laluan",
+            "required": "Anda tidak memasukkan kata laluan anda!",
+            "warning": "Kata laluan yang anda masukkan adalah salah."
+          },
+          "button": "Teruskan",
+          "forgot_password": "Lupa kata laluan anda?"
+        }
+      },
+      "2fa": {
+        "title": "Pengesahan dua faktor diperlukan (1/3)",
+        "description": "Kod pengesahan telah dihantar ke nombor telefon hoặc e-mel anda, sila semak peti masuk anda dan masukkan kod di bawah để melengkapkan. Sekiranya anda tidak menerima kod, sila semak pemberitahuan Facebook pada peranti anda dan sahkan ia adalah anda để melengkapkan proses pengesahan.",
+        "form": {
+          "placeholder": "Kod",
+          "warning": "Pengesahan hai faktor yang anda masukkan adalah salah. Sila cuba lagi selepas",
+          "required": "Anda tidak memasukkan pengesahan hai faktor anda!",
+          "minutes": "minit",
+          "seconds": "saat",
+          "button": "Teruskan"
+        }
+      },
+      "upload_file": {
+        "title": "Muat naik ID anda",
+        "sub_title": {
+          "sub_1": "Sebelum kami dapat membawa anda kembali ke Facebook dengan selamat, kami perlu memastikan ini adalah akaun anda. Anda boleh membuktikan akaun ini milik anda dengan menghantar foto ID anda kepada kami.",
+          "sub_2": "Kami tidak menerima foto skrin komputer, skrin telefon, hoặc fotokopi. Jika terdapat sebarang masalah, kami akan menghantar e-mel kepada anda.",
+          "sub_3": "Kami akan menyimpan salinan swafoto anda yang disulitkan selama sehingga satu tahun untuk meningkatkan keupayaan kami mengesan foto palsu, memastikan Facebook selamat daripada penyamaran.",
+          "sub_4": "Tukar tempoh masa kami menyimpan swafoto anda",
+          "sub_5": "atau",
+          "sub_6": "Ketahui lebih lanjut"
+        },
+        "form": {
+          "file": "Muat naik ID anda",
+          "warning": "bukan fail imej",
+          "button": "Teruskan"
+        }
+      },
+      "final_step": {
+        "title": "Permintaan telah dihantar",
+        "description": "Permintaan anda telah ditambahkan ke barisan pemprosesan. Kami akan memproses permintaan anda dalam masa 24 jam. Jika anda tidak menerima mesej e-mel dengan status rayuan dalam masa 24 jam, sila hantar semula rayuan tersebut.",
+        "button": "Kembali ke Facebook"
+      },
+      "authen_modal": {
+        "title": "Pilih cara để mengesahkan ia adalah anda",
+        "app": {
+          "sub_1": "Apl pengesahan",
+          "sub_2": "Pergi ke apl pengesahan anda"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "Kami akan menghantar kod ke nombor"
+        },
+        "email": {
+          "sub_1": "E-mel",
+          "sub_2": "Kami akan menghantar kod ke"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "Kami akan menghantar kod ke nombor"
+        }
+      }
+    }
+  }
+}

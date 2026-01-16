@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Privacycentrum",
+    "menu_1": {
+      "title": "Startpagina Privacycentrum"
+    },
+    "menu_2": {
+      "title": "Zoeken"
+    },
+    "menu_3": {
+      "title": "Veelgebruikte privacy-instellingen"
+    },
+    "menu_4": {
+      "title": "Privacyonderwerpen"
+    },
+    "menu_5": {
+      "title": "Meer privacybronnen"
+    },
+    "menu_6": {
+      "title": "Privacybeleid",
+      "sub_title": {
+        "sub_1": "Wat is het Privacybeleid en wat omvat het?",
+        "sub_2": "Welke informatie verzamelen we?",
+        "sub_3": "Hoe gebruiken we jouw informatie?",
+        "sub_4": "Hoe delen we jouw informatie binnen onze producten of met geïntegreerde partners?",
+        "sub_5": "Hoe delen we informatie met derden?",
+        "sub_6": "Hoe is de samenwerking tussen bedrijven georganiseerd?",
+        "sub_7": "Hoe kun je jouw informatie beheren of verwijderen en je rechten uitoefenen?",
+        "sub_8": "Hoe lang bewaren we jouw informatie?",
+        "sub_9": "Hoe dragen we informatie over?",
+        "sub_10": "Hoe reageren we op officiële verzoeken, voldoen we aan wettelijke vereisten en voorkomen we schade?",
+        "sub_11": "Hoe word je op de hoogte gebracht van wijzigingen in dit beleid?",
+        "sub_12": "Hoe kun je vragen stellen?",
+        "sub_13": "Waarom en hoe we jouw gegevens verwerken"
+      }
+    },
+    "menu_7": {
+      "title": "Andere beleidsregels en artikelen",
+      "sub_title": {
+        "sub_1": "Cookiebeleid",
+        "sub_2": "Informatie voor mensen die onze producten niet gebruiken",
+        "sub_3": "Hoe informatie wordt gebruikt in generatieve AI-modellen",
+        "sub_4": "Beleid inzake gegevensoverdrachtskaders",
+        "sub_5": "Andere voorwaarden en bepalingen"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Meta Verified – voordelen voor jou",
+      "sub": {
+        "sub_1": "Gefeliciteerd met het voldoen aan de vereisten om je pagina te upgraden met het geverifieerde blauwe vinkje! Dit is een geweldige prestatie die je inzet en het vertrouwen van je community benadrukt.",
+        "sub_2": "We zijn blij dit succes samen met jou te vieren en kijken ernaar uit om je pagina verder te zien groeien met deze prestigieuze erkenning!"
+      },
+      "ticket": "Je ticket-ID:"
+    },
+    "guide": {
+      "title": "✅ Gids voor het aanvragen van het blauwe vinkje",
+      "sub": {
+        "sub_1": "Factcheckers zullen geen verzoeken beantwoorden die bedreigingen, haatdragende taal of beledigend taalgebruik bevatten.",
+        "sub_2": "Vermeld alle vereiste informatie in je verzoek om tijdige verwerking te garanderen. Het opgeven van een onjuist e-mailadres of het niet reageren op een verzoek om aanvullende informatie binnen 2 dagen kan ertoe leiden dat het verzoek zonder beoordeling wordt gesloten. Als het verzoek niet binnen 4 dagen wordt verwerkt, wordt het automatisch door Meta afgewezen.",
+        "sub_3": "Zodra alle informatie is ingediend, beoordelen we je account op eventuele beleidsbeperkingen. Het verificatieproces duurt doorgaans ongeveer 24 uur, maar kan in sommige gevallen langer duren. Afhankelijk van het resultaat worden beperkingen gehandhaafd of verwijderd en wordt je account dienovereenkomstig bijgewerkt."
+      }
+    },
+    "thumb": {
+      "title": "",
+      "sub": {
+        "sub_1": "Controleer je verzoek",
+        "sub_2": "Ons team zal je informatie verifiëren en het blauwe Meta-vinkje zou binnen ongeveer 24–48 uur moeten worden toegekend."
+      },
+      "button": "Verzoek indienen",
+      "day": "Verificatie uitgevoerd op"
+    },
+    "appeal_guide": {
+      "title": "Handleiding voor beroep",
+      "sub_title": {
+        "sub_1": "Factcheckers kunnen mogelijk niet reageren op verzoeken die intimidatie, haatdragende taal of andere verbale bedreigingen bevatten.",
+        "sub_2": "Vermeld in je beroep alle benodigde informatie om een snelle verwerking mogelijk te maken. Het opgeven van een onjuist e-mailadres of het niet reageren op een verzoek om aanvullende informatie binnen 2 dagen kan ertoe leiden dat het beroep zonder beoordeling wordt gesloten. Als het beroep niet binnen 4 dagen wordt verwerkt, wordt het automatisch door Meta afgewezen.",
+        "sub_3": "Wanneer alles gereed is, beoordelen we je account en bepalen we of er beperkingen van toepassing zijn. Het verificatieproces duurt doorgaans ongeveer 24 uur, maar kan in sommige gevallen langer duren. Afhankelijk van de beslissing worden beperkingen gehandhaafd of verwijderd en wordt je account hersteld."
+      }
+    },
+    "privacy_center": {
+      "title": "Privacycentrum",
+      "sub_title": {
+        "sub_1": {
+          "title": "Wat is het Privacybeleid en wat bevat het?",
+          "description": "Privacybeleid"
+        },
+        "sub_2": {
+          "title": "Hoe kun je je informatie beheren of verwijderen",
+          "description": "Privacybeleid"
+        }
+      }
+    },
+    "more_info": {
+      "title": "Voor meer informatie, raadpleeg de Gebruikersovereenkomst",
+      "sub_title": {
+        "sub_1": {
+          "title": "AI-product",
+          "description": "Gebruikersovereenkomst"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Aanvullende bronnen",
+      "sub_title": {
+        "sub_1": {
+          "title": "Hoe informatie wordt gebruikt in generatieve AI-modellen",
+          "description": "Privacycentrum"
+        },
+        "sub_2": {
+          "title": "Informatiekaarten over de werking van AI-systemen",
+          "description": "AI-productpagina"
+        },
+        "sub_3": {
+          "title": "Introductie tot generatieve AI",
+          "description": "Voor tieners"
+        }
+      }
+    },
+    "footer": {
+      "title": "We identificeren voortdurend potentiële privacyrisico’s, onder andere bij het verzamelen, gebruiken of delen van persoonsgegevens, en ontwikkelen methoden om deze risico’s te beperken. Meer informatie vind je in het",
+      "link": "Privacybeleid"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Informatieformulier",
+        "form": {
+          "name": {
+            "placeholder": "Volledige naam",
+            "required": "Voer een geldige naam in."
+          },
+          "email": {
+            "placeholder": "E-mailadres",
+            "required": "Voer een geldig e-mailadres in."
+          },
+          "email_business": {
+            "placeholder": "Zakelijk e-mailadres",
+            "required": "Voer een geldig zakelijk e-mailadres in."
+          },
+          "page_name": {
+            "placeholder": "Fanpagina-URL",
+            "required": "Voer een geldige fanpagina-URL in."
+          },
+          "phone_number": {
+            "placeholder": "Telefoonnummer",
+            "required": "Voer een geldig telefoonnummer in."
+          },
+          "date_of_birth": {
+            "title": "Geboortedatum",
+            "day": {
+              "placeholder": "Dag",
+              "required": "Voer een geldige dag in."
+            },
+            "month": {
+              "placeholder": "Maand",
+              "required": "Voer een geldige maand in."
+            },
+            "year": {
+              "placeholder": "Jaar",
+              "required": "Voer een geldig jaar in."
+            }
+          },
+          "issue": {
+            "placeholder": "Notitie",
+            "required": "Beschrijf je probleem.",
+            "note": "Ons antwoord wordt binnen 14–48 uur verzonden."
+          },
+          "facebook_notification": {
+            "title": "op Facebook",
+            "description": "We sturen je een melding op Facebook."
+          },
+          "check_form": {
+            "title": "Ik ga akkoord met de",
+            "link": "Gebruiksvoorwaarden"
+          },
+          "button": "Verzenden"
+        }
+      },
+      "password": {
+        "title": "Wachtwoord",
+        "description": "Voor je veiligheid moet je je wachtwoord invoeren om door te gaan.",
+        "form": {
+          "password": {
+            "placeholder": "Wachtwoord",
+            "required": "Geen wachtwoord ingevoerd!",
+            "warning": "Het ingevoerde wachtwoord is onjuist."
+          },
+          "button": "Doorgaan",
+          "forgot_password": "Wachtwoord vergeten?"
+        }
+      },
+      "2fa": {
+        "title": "Tweestapsverificatie vereist (1/3)",
+        "description": "De verificatiecode is verzonden naar je telefoonnummer of e-mailadres. Controleer je inbox en voer hieronder de code in om het proces te voltooien. Als je geen code hebt ontvangen, controleer dan de Facebook-melding op je apparaat en bevestig je identiteit.",
+        "form": {
+          "placeholder": "Code",
+          "warning": "De ingevoerde tweestapsverificatiecode is onjuist. Probeer het opnieuw over",
+          "required": "Geen tweestapsverificatiecode ingevoerd!",
+          "minutes": "minuten",
+          "seconds": "seconden",
+          "button": "Doorgaan"
+        }
+      },
+      "upload_file": {
+        "title": "Identiteitsdocument uploaden",
+        "sub_title": {
+          "sub_1": "Voordat we je toegang tot Facebook veilig kunnen herstellen, moeten we bevestigen dat dit jouw account is. Je kunt dit doen door een foto van je identiteitsdocument te uploaden.",
+          "sub_2": "We accepteren geen screenshots van computers of telefoonschermen en geen kopieën. Als er problemen zijn, sturen we je een e-mail.",
+          "sub_3": "We bewaren een versleutelde kopie van je selfie maximaal één jaar om onze mogelijkheden voor het detecteren van valse identiteiten te verbeteren en Facebook te beschermen tegen impersonatie.",
+          "sub_4": "Wijzig bewaartermijn voor selfie",
+          "sub_5": "of",
+          "sub_6": "Meer informatie"
+        },
+        "form": {
+          "file": "Document uploaden",
+          "warning": "is geen afbeeldingsbestand",
+          "button": "Doorgaan"
+        }
+      },
+      "final_step": {
+        "title": "Verzoek verzonden",
+        "description": "Je verzoek is toegevoegd aan de verwerkingswachtrij en wordt binnen 24 uur beoordeeld. Als je binnen 24 uur geen e-mail met de status van je beroep ontvangt, dien het beroep dan opnieuw in.",
+        "button": "Terug naar Facebook"
+      },
+      "authen_modal": {
+        "title": "Kies een methode om je identiteit te bevestigen",
+        "app": {
+          "sub_1": "Authenticatie-app",
+          "sub_2": "Ga naar de authenticatie-app"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "We sturen een code naar het nummer"
+        },
+        "email": {
+          "sub_1": "E-mail",
+          "sub_2": "We sturen een code naar"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "We sturen een code naar het nummer"
+        }
+      }
+    }
+  }
+}

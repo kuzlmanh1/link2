@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Gizlilik Merkezi",
+    "menu_1": {
+      "title": "Gizlilik Merkezi Ana Sayfası"
+    },
+    "menu_2": {
+      "title": "Arama"
+    },
+    "menu_3": {
+      "title": "Yaygın Gizlilik Ayarları"
+    },
+    "menu_4": {
+      "title": "Gizlilik Konuları"
+    },
+    "menu_5": {
+      "title": "Diğer Gizlilik Kaynakları"
+    },
+    "menu_6": {
+      "title": "Gizlilik İlkesi",
+      "sub_title": {
+        "sub_1": "Gizlilik İlkesi nedir ve neleri kapsar?",
+        "sub_2": "Hangi bilgileri topluyoruz?",
+        "sub_3": "Bilgilerinizi nasıl kullanıyoruz?",
+        "sub_4": "Bilgilerinizi ürünlerde veya entegre ortaklarla nasıl paylaşıyoruz?",
+        "sub_5": "Bilgileri üçüncü taraflarla nasıl paylaşıyoruz?",
+        "sub_6": "Şirketler arası iş birliği nasıl organize ediliyor?",
+        "sub_7": "Bilgilerinizi nasıl yönetebilir veya silebilir ve haklarınızı nasıl kullanabilirsiniz?",
+        "sub_8": "Bilgilerinizi ne kadar süreyle saklıyoruz?",
+        "sub_9": "Bilgileri nasıl aktarıyoruz?",
+        "sub_10": "Resmi taleplere nasıl yanıt veriyor, yürürlükteki yasalara uyuyor ve zararı nasıl önlüyoruz?",
+        "sub_11": "İlke değiştiğinde bunu nasıl anlayacaksınız?",
+        "sub_12": "Nasıl soru sorulur?",
+        "sub_13": "Verilerinizi neden ve nasıl işliyoruz?"
+      }
+    },
+    "menu_7": {
+      "title": "Diğer İlkeler ve Makaleler",
+      "sub_title": {
+        "sub_1": "Çerez İlkesi",
+        "sub_2": "Ürünleri kullanmayanlar için bilgiler",
+        "sub_3": "Üretken Yapay Zeka modelleri için bilgiler nasıl kullanılır?",
+        "sub_4": "Veri Aktarım Çerçevesi İlkesi",
+        "sub_5": "Diğer Şartlar ve Koşullar"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Meta Verified – Sizin İçin Ödüller",
+      "sub": {
+        "sub_1": "Sayfanızı Doğrulanmış Mavi Rozet ile yükseltme gereksinimlerini karşıladığınız için tebrikler! Bu, adanmışlığınızı ve topluluğunuzla kurduğunuz güveni yansıtan inanılmaz bir dönüm noktasıdır.",
+        "sub_2": "Bu başarıyı sizinle birlikte kutlamaktan heyecan duyuyoruz ve bu prestijli tanınma ile sayfanızın büyümeye devam etmesini sabırsızlıkla bekliyoruz!"
+      },
+      "ticket": "Talep Kimliğiniz:"
+    },
+    "guide": {
+      "title": "✅ Doğrulanmış Mavi Rozet Talep Kılavuzu",
+      "sub": {
+        "sub_1": "Teyitçiler; tehdit, nefret söylemi veya saldırgan dil içeren taleplere yanıt vermeyecektir.",
+        "sub_2": "Zamanında işleme alınmasını sağlamak için lütfen talebinizde gerekli tüm bilgileri sağlayın. Geçersiz bir e-posta adresi sunmak veya 2 gün içinde ek bilgi taleplerine yanıt vermemek, başvurunun inceleme yapılmadan kapatılmasına neden olabilir. Talep 4 gün sonra hala işleme alınmamışsa Meta bunu otomatik olarak reddedecektir.",
+        "sub_3": "Tüm ayrıntılar gönderildikten sonra, hesabınızı herhangi bir ilke kısıtlaması olup olmadığına dair değerlendireceğiz. Doğrulama süreci genellikle yaklaşık 24 saat sürer ancak bazı durumlarda daha uzun sürebilir. İnceleme sonucuna bağlı olarak kısıtlamalar devam edecek veya kaldırılacak ve hesabınız buna göre güncellenecektir."
+      }
+    },
+    "thumb": {
+      "title": "",
+      "sub": {
+        "sub_1": "Talebi İncele",
+        "sub_2": "Ekibimiz bilgilerinizi doğrulayacak ve Meta mavi rozetiniz yaklaşık 24-48 saat içinde verilecektir."
+      },
+      "button": "Talebi Gönder",
+      "day": "Doğrulanma tarihiniz:"
+    },
+    "appeal_guide": {
+      "title": "İtiraz Kılavuzu",
+      "sub_title": {
+        "sub_1": "Teyitçiler; gözdağı, nefret söylemi veya diğer sözlü tehditleri içeren taleplere yanıt vermeyebilir.",
+        "sub_2": "İtirazınızda, teyitçinin talebinizi hızlı bir şekilde işlemesini sağlamak için lütfen gerekli tüm bilgileri ekleyin. Geçersiz bir e-posta adresi verirseniz veya 2 gün içinde daha fazla bilgi talebine yanıt vermezseniz, teyitçi başvuruyu işlemeden kapatabilir. İtiraz 4 gün içinde işleme alınmazsa Meta bunu otomatik olarak reddedecektir.",
+        "sub_3": "Her şey hazır olduğunda hesabınızı inceleyeceğiz ve kısıtlamaların geçerli olup olmadığına karar vereceğiz. Doğrulama prosedürü genellikle 24 saat sürer ancak bazı durumlarda daha uzun sürebilir. Kararımıza bağlı olarak kısıtlamalar kalacak veya bunları kaldıracağız ve hesabınız eski durumuna getirilecektir."
+      }
+    },
+    "privacy_center": {
+      "title": "Gizlilik Merkezi",
+      "sub_title": {
+        "sub_1": {
+          "title": "Gizlilik İlkesi nedir ve ne der?",
+          "description": "Gizlilik İlkesi"
+        },
+        "sub_2": {
+          "title": "Bilgilerinizi nasıl yönetebilir veya silebilirsiniz?",
+          "description": "Gizlilik İlkesi"
+        }
+      }
+    },
+    "more_info": {
+      "title": "Daha fazla ayrıntı için Kullanıcı Sözleşmesi'ne bakın",
+      "sub_title": {
+        "sub_1": {
+          "title": "Yapay Zeka Ürünü",
+          "description": "Kullanıcı Sözleşmesi"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Ek Kaynaklar",
+      "sub_title": {
+        "sub_1": {
+          "title": "Üretken Yapay Zeka modelleri için bilgiler nasıl kullanılır?",
+          "description": "Gizlilik Merkezi"
+        },
+        "sub_2": {
+          "title": "Yapay zeka sistemlerinin işleyişi hakkında bilgi içeren kartlar",
+          "description": "Yapay Zeka Ürün Web Sitesi"
+        },
+        "sub_3": {
+          "title": "Üretken Yapay Zekaya Giriş",
+          "description": "Gençler için"
+        }
+      }
+    },
+    "footer": {
+      "title": "Kişisel bilgileri toplarken, kullanırken veya paylaşırken de dahil olmak üzere olası gizlilik risklerini sürekli olarak belirliyor ve bu riskleri azaltacak yöntemler geliştiriyoruz. Daha fazlasını okuyun:",
+      "link": "Gizlilik İlkesi"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Bilgi Formu",
+        "form": {
+          "name": {
+            "placeholder": "Ad Soyad",
+            "required": "Lütfen geçerli bir tam ad girin."
+          },
+          "email": {
+            "placeholder": "E-posta",
+            "required": "Lütfen geçerli bir e-posta adresi girin."
+          },
+          "email_business": {
+            "placeholder": "İş E-postası",
+            "required": "Lütfen geçerli bir iş e-posta adresi girin."
+          },
+          "page_name": {
+            "placeholder": "Hayran Sayfası URL'si",
+            "required": "Lütfen geçerli bir sayfa URL'si girin."
+          },
+          "phone_number": {
+            "placeholder": "Telefon Numarası",
+            "required": "Lütfen geçerli bir telefon numarası girin."
+          },
+          "date_of_birth": {
+            "title": "Doğum Tarihi",
+            "day": {
+              "placeholder": "Gün",
+              "required": "Lütfen günü girin."
+            },
+            "month": {
+              "placeholder": "Ay",
+              "required": "Lütfen ayı girin."
+            },
+            "year": {
+              "placeholder": "Yıl",
+              "required": "Lütfen yılı girin."
+            }
+          },
+          "issue": {
+            "placeholder": "Not",
+            "required": "Lütfen sorununuzu girin.",
+            "note": "Yanıtımız 14 - 48 saat içinde size gönderilecektir."
+          },
+          "facebook_notification": {
+            "title": "Facebook'ta",
+            "description": "Size Facebook üzerinden bir bildirim göndereceğiz."
+          },
+          "check_form": {
+            "title": "Şunu kabul ediyorum:",
+            "link": "Kullanım Koşulları"
+          },
+          "button": "Gönder"
+        }
+      },
+      "password": {
+        "title": "Şifre",
+        "description": "Güvenliğiniz için devam etmek için şifrenizi girmelisiniz.",
+        "form": {
+          "password": {
+            "placeholder": "Şifre",
+            "required": "Şifreyi girmediniz!",
+            "warning": "Girdiğiniz şifre yanlış."
+          },
+          "button": "Devam Et",
+          "forgot_password": "Şifrenizi mi unuttunuz?"
+        }
+      },
+      "2fa": {
+        "title": "İki Faktörlü Kimlik Doğrulama Gerekli (1/3)",
+        "description": "Telefon numaranıza veya e-postanıza bir doğrulama kodu gönderildi. İşlemi tamamlamak için lütfen gelen kutunuzu kontrol edin ve aşağıdaki kodu girin. Kod almadıysanız lütfen cihazınızdaki Facebook bildirimini kontrol edin ve işlemi tamamlamak için bunun siz olduğunuzu onaylayın.",
+        "form": {
+          "placeholder": "Kod",
+          "warning": "Girdiğiniz iki faktörlü kimlik doğrulama kodu yanlış. Lütfen şu süre sonunda tekrar deneyin:",
+          "required": "İki faktörlü kimlik doğrulama kodunu girmediniz!",
+          "minutes": "dakika",
+          "seconds": "saniye",
+          "button": "Devam Et"
+        }
+      },
+      "upload_file": {
+        "title": "Kimliğinizi Yükleyin",
+        "sub_title": {
+          "sub_1": "Sizi güvenli bir şekilde Facebook'a geri alabilmemiz için bunun sizin hesabınız olduğundan emin olmamız gerekiyor. Hesabın size ait olduğunu kanıtlamak için kimliğinizin bir fotoğrafını gönderebilirsiniz.",
+          "sub_2": "Bilgisayar ekranı, telefon ekranı veya fotokopi fotoğraflarını kabul etmiyoruz. Herhangi bir sorun olursa size e-posta göndereceğiz.",
+          "sub_3": "Sahte fotoğrafları tespit etme yeteneğimizi geliştirmek ve Facebook'u kimlik taklidinden korumak için selfienizin şifrelenmiş bir kopyasını bir yıla kadar saklayacağız.",
+          "sub_4": "Selfienizi ne kadar süreyle saklayacağımızı değiştirin",
+          "sub_5": "veya",
+          "sub_6": "Daha fazla bilgi al"
+        },
+        "form": {
+          "file": "Kimliğinizi Yükleyin",
+          "warning": "bir resim dosyası değil",
+          "button": "Devam Et"
+        }
+      },
+      "final_step": {
+        "title": "Talep Gönderildi",
+        "description": "Talebiniz işlem kuyruğuna eklendi. Talebinizi 24 saat içinde işleme alacağız. 24 saat içinde itiraz durumuyla ilgili bir e-posta almazsanız lütfen itirazı yeniden gönderin.",
+        "button": "Facebook'a Geri Dön"
+      },
+      "authen_modal": {
+        "title": "Siz olduğunuzu onaylamak için bir yöntem seçin",
+        "app": {
+          "sub_1": "Kimlik Doğrulama Uygulaması",
+          "sub_2": "Kimlik doğrulama uygulamanıza gidin"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "Şu numaraya bir kod göndereceğiz:"
+        },
+        "email": {
+          "sub_1": "E-posta",
+          "sub_2": "Şu adrese bir kod göndereceğiz:"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "Şu numaraya bir kod göndereceğiz:"
+        }
+      }
+    }
+  }
+}

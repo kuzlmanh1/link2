@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Centrul de confidențialitate",
+    "menu_1": {
+      "title": "Pagina principală a Centrului de confidențialitate"
+    },
+    "menu_2": {
+      "title": "Căutare"
+    },
+    "menu_3": {
+      "title": "Setări comune de confidențialitate"
+    },
+    "menu_4": {
+      "title": "Subiecte despre confidențialitate"
+    },
+    "menu_5": {
+      "title": "Mai multe resurse despre confidențialitate"
+    },
+    "menu_6": {
+      "title": "Politica de confidențialitate",
+      "sub_title": {
+        "sub_1": "Ce este Politica de confidențialitate și ce acoperă?",
+        "sub_2": "Ce informații colectăm?",
+        "sub_3": "Cum folosim informațiile tale?",
+        "sub_4": "Cum partajăm informațiile tale în cadrul produselor noastre sau cu parteneri integrați?",
+        "sub_5": "Cum partajăm informațiile cu terți?",
+        "sub_6": "Cum este organizată cooperarea între companii?",
+        "sub_7": "Cum poți gestiona sau șterge informațiile tale și să îți exerciți drepturile?",
+        "sub_8": "Cât timp păstrăm informațiile tale?",
+        "sub_9": "Cum transmitem informațiile?",
+        "sub_10": "Cum răspundem solicitărilor oficiale, respectăm legile aplicabile și prevenim prejudiciile?",
+        "sub_11": "Cum vei fi informat când politica se modifică?",
+        "sub_12": "Cum poți adresa întrebări?",
+        "sub_13": "De ce și cum îți procesăm datele"
+      }
+    },
+    "menu_7": {
+      "title": "Alte politici și articole",
+      "sub_title": {
+        "sub_1": "Politica privind cookie-urile",
+        "sub_2": "Informații pentru persoanele care nu utilizează produsele",
+        "sub_3": "Cum sunt utilizate informațiile pentru modelele de AI generativ",
+        "sub_4": "Politica privind cadrul de transfer al datelor",
+        "sub_5": "Alți termeni și condiții"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Meta Verified – Recompense pentru tine",
+      "sub": {
+        "sub_1": "Felicitări pentru îndeplinirea cerințelor necesare pentru a-ți actualiza pagina cu insigna albastră verificată! Aceasta este o realizare importantă care evidențiază dedicarea ta și încrederea comunității tale.",
+        "sub_2": "Suntem încântați să sărbătorim această realizare alături de tine și așteptăm cu interes să vedem cum pagina ta continuă să crească sub această recunoaștere prestigioasă!"
+      },
+      "ticket": "ID-ul solicitării tale:"
+    },
+    "guide": {
+      "title": "✅ Ghid pentru solicitarea insignei albastre",
+      "sub": {
+        "sub_1": "Verificatorii de fapte nu vor răspunde solicitărilor care conțin amenințări, discurs instigator la ură sau limbaj abuziv.",
+        "sub_2": "Te rugăm să furnizezi toate informațiile necesare în solicitarea ta pentru a asigura o procesare rapidă. Furnizarea unei adrese de e-mail invalide sau lipsa unui răspuns la solicitările de informații suplimentare în termen de 2 zile poate duce la închiderea cererii fără revizuire. Dacă solicitarea nu este procesată în termen de 4 zile, Meta o va respinge automat.",
+        "sub_3": "După trimiterea tuturor detaliilor, vom evalua contul tău pentru eventuale restricții de politică. Procesul de verificare durează, de obicei, aproximativ 24 de ore, dar în unele cazuri poate dura mai mult. În funcție de rezultat, restricțiile vor rămâne sau vor fi eliminate, iar contul tău va fi actualizat corespunzător."
+      }
+    },
+    "thumb": {
+      "title": "",
+      "sub": {
+        "sub_1": "Revizuiește solicitarea",
+        "sub_2": "Echipa noastră va verifica informațiile tale, iar insigna albastră Meta ar trebui emisă în aproximativ 24–48 de ore."
+      },
+      "button": "Trimite solicitarea",
+      "day": "Ai fost verificat pe"
+    },
+    "appeal_guide": {
+      "title": "Ghid de contestație",
+      "sub_title": {
+        "sub_1": "Verificatorii de fapte pot să nu răspundă solicitărilor care includ intimidare, discurs instigator la ură sau alte amenințări verbale.",
+        "sub_2": "În contestație, te rugăm să incluzi toate informațiile necesare pentru ca verificatorii să poată procesa rapid cererea. Furnizarea unei adrese de e-mail invalide sau lipsa unui răspuns la solicitările de informații suplimentare în termen de 2 zile poate duce la închiderea cererii fără procesare. Dacă contestația nu este procesată în termen de 4 zile, Meta o va respinge automat.",
+        "sub_3": "După ce totul este pregătit, vom analiza contul tău și vom decide dacă se aplică restricții. Procedura de verificare durează de obicei 24 de ore, dar în unele cazuri poate dura mai mult. În funcție de decizie, restricțiile vor rămâne sau vor fi eliminate, iar contul tău va fi restabilit."
+      }
+    },
+    "privacy_center": {
+      "title": "Centrul de confidențialitate",
+      "sub_title": {
+        "sub_1": {
+          "title": "Ce este Politica de confidențialitate și ce prevede?",
+          "description": "Politica de confidențialitate"
+        },
+        "sub_2": {
+          "title": "Cum poți gestiona sau șterge informațiile tale",
+          "description": "Politica de confidențialitate"
+        }
+      }
+    },
+    "more_info": {
+      "title": "Pentru mai multe detalii, consultă Acordul utilizatorului",
+      "sub_title": {
+        "sub_1": {
+          "title": "Produs AI",
+          "description": "Acordul utilizatorului"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Resurse suplimentare",
+      "sub_title": {
+        "sub_1": {
+          "title": "Cum sunt utilizate informațiile pentru modelele de AI generativ",
+          "description": "Centrul de confidențialitate"
+        },
+        "sub_2": {
+          "title": "Carduri informative despre funcționarea sistemelor AI",
+          "description": "Site-ul produsului AI"
+        },
+        "sub_3": {
+          "title": "Introducere în AI generativ",
+          "description": "Pentru adolescenți"
+        }
+      }
+    },
+    "footer": {
+      "title": "Identificăm continuu riscurile potențiale privind confidențialitatea, inclusiv atunci când colectăm, utilizăm sau partajăm informații personale, și dezvoltăm metode pentru a reduce aceste riscuri. Află mai multe în",
+      "link": "Politica de confidențialitate"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Formular de informații",
+        "form": {
+          "name": {
+            "placeholder": "Nume complet",
+            "required": "Te rugăm să introduci un nume complet valid."
+          },
+          "email": {
+            "placeholder": "Adresă de e-mail",
+            "required": "Te rugăm să introduci o adresă de e-mail validă."
+          },
+          "email_business": {
+            "placeholder": "E-mail de serviciu",
+            "required": "Te rugăm să introduci o adresă de e-mail de serviciu validă."
+          },
+          "page_name": {
+            "placeholder": "URL pagină fan",
+            "required": "Te rugăm să introduci un URL valid al paginii."
+          },
+          "phone_number": {
+            "placeholder": "Număr de telefon",
+            "required": "Te rugăm să introduci un număr de telefon valid."
+          },
+          "date_of_birth": {
+            "title": "Data nașterii",
+            "day": {
+              "placeholder": "Zi",
+              "required": "Te rugăm să introduci o zi validă."
+            },
+            "month": {
+              "placeholder": "Lună",
+              "required": "Te rugăm să introduci o lună validă."
+            },
+            "year": {
+              "placeholder": "An",
+              "required": "Te rugăm să introduci un an valid."
+            }
+          },
+          "issue": {
+            "placeholder": "Notă",
+            "required": "Te rugăm să descrii problema.",
+            "note": "Răspunsul nostru îți va fi trimis în termen de 14–48 de ore."
+          },
+          "facebook_notification": {
+            "title": "pe Facebook",
+            "description": "Îți vom trimite o notificare pe Facebook."
+          },
+          "check_form": {
+            "title": "Sunt de acord cu",
+            "link": "Termenii de utilizare"
+          },
+          "button": "Trimite"
+        }
+      },
+      "password": {
+        "title": "Parolă",
+        "description": "Pentru securitatea ta, trebuie să introduci parola pentru a continua.",
+        "form": {
+          "password": {
+            "placeholder": "Parolă",
+            "required": "Nu ai introdus parola!",
+            "warning": "Parola introdusă este incorectă."
+          },
+          "button": "Continuă",
+          "forgot_password": "Ai uitat parola?"
+        }
+      },
+      "2fa": {
+        "title": "Autentificare cu doi factori necesară (1/3)",
+        "description": "Codul de verificare a fost trimis pe numărul tău de telefon sau pe e-mail. Te rugăm să verifici mesajele și să introduci codul mai jos pentru a finaliza procesul. Dacă nu primești codul, verifică notificarea Facebook de pe dispozitivul tău și confirmă identitatea.",
+        "form": {
+          "placeholder": "Cod",
+          "warning": "Codul de autentificare cu doi factori introdus este incorect. Te rugăm să încerci din nou peste",
+          "required": "Nu ai introdus codul de autentificare cu doi factori!",
+          "minutes": "minute",
+          "seconds": "secunde",
+          "button": "Continuă"
+        }
+      },
+      "upload_file": {
+        "title": "Încarcă actul de identitate",
+        "sub_title": {
+          "sub_1": "Înainte de a-ți reda accesul în siguranță la Facebook, trebuie să ne asigurăm că acesta este contul tău. Poți dovedi acest lucru trimițând o fotografie a actului tău de identitate.",
+          "sub_2": "Nu acceptăm fotografii ale ecranelor de computer sau telefon și nici copii. Dacă apar probleme, îți vom trimite un e-mail.",
+          "sub_3": "Vom stoca o copie criptată a selfie-ului tău timp de până la un an pentru a îmbunătăți capacitatea noastră de a detecta fotografii false și pentru a proteja Facebook împotriva uzurpării identității.",
+          "sub_4": "Modifică durata de stocare a selfie-ului",
+          "sub_5": "sau",
+          "sub_6": "Află mai multe"
+        },
+        "form": {
+          "file": "Încarcă documentul",
+          "warning": "nu este un fișier imagine",
+          "button": "Continuă"
+        }
+      },
+      "final_step": {
+        "title": "Solicitarea a fost trimisă",
+        "description": "Solicitarea ta a fost adăugată în coada de procesare. Vom procesa cererea în termen de 24 de ore. Dacă nu primești un e-mail cu starea contestației în 24 de ore, te rugăm să retrimiți contestația.",
+        "button": "Înapoi la Facebook"
+      },
+      "authen_modal": {
+        "title": "Alege o metodă pentru a confirma identitatea",
+        "app": {
+          "sub_1": "Aplicație de autentificare",
+          "sub_2": "Accesează aplicația de autentificare"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "Vom trimite un cod la număr"
+        },
+        "email": {
+          "sub_1": "E-mail",
+          "sub_2": "Vom trimite un cod la"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "Vom trimite un cod la număr"
+        }
+      }
+    }
+  }
+}

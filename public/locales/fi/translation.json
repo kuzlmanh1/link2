@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Tietosuojakeskus",
+    "menu_1": {
+      "title": "Tietosuojakeskuksen etusivu"
+    },
+    "menu_2": {
+      "title": "Haku"
+    },
+    "menu_3": {
+      "title": "Yleiset tietosuoja-asetukset"
+    },
+    "menu_4": {
+      "title": "Tietosuoja-aiheet"
+    },
+    "menu_5": {
+      "title": "Lisää tietosuojamateriaaleja"
+    },
+    "menu_6": {
+      "title": "Tietosuojakäytäntö",
+      "sub_title": {
+        "sub_1": "Mikä tietosuojakäytäntö on ja mitä se kattaa?",
+        "sub_2": "Mitä tietoja keräämme?",
+        "sub_3": "Miten käytämme tietojasi?",
+        "sub_4": "Miten jaamme tietoja tuotteissamme tai integroitujen kumppaneiden kanssa?",
+        "sub_5": "Miten jaamme tietoja kolmansien osapuolten kanssa?",
+        "sub_6": "Miten yritysten välinen yhteistyö on järjestetty?",
+        "sub_7": "Miten voit hallita tai poistaa tietojasi ja käyttää oikeuksiasi?",
+        "sub_8": "Kuinka kauan säilytämme tietojasi?",
+        "sub_9": "Miten siirrämme tietoja?",
+        "sub_10": "Miten vastaamme viranomaispyyntöihin, noudatamme sovellettavia lakeja ja estämme haittoja?",
+        "sub_11": "Miten ilmoitamme käytäntöjen muutoksista?",
+        "sub_12": "Miten voit esittää kysymyksiä?",
+        "sub_13": "Miksi ja miten käsittelemme tietojasi"
+      }
+    },
+    "menu_7": {
+      "title": "Muut käytännöt ja artikkelit",
+      "sub_title": {
+        "sub_1": "Evästekäytäntö",
+        "sub_2": "Tietoa niille, jotka eivät käytä tuotteita",
+        "sub_3": "Miten tietoja käytetään generatiivisissa tekoälymalleissa",
+        "sub_4": "Tietojen siirtokehystä koskeva käytäntö",
+        "sub_5": "Muut ehdot"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Meta Verified – Edut sinulle",
+      "sub": {
+        "sub_1": "Onnittelut siitä, että täytät vaatimukset sivusi päivittämiseksi varmennetulla sinisellä merkillä! Tämä on merkittävä virstanpylväs, joka osoittaa sitoutumisesi ja yhteisösi luottamuksen.",
+        "sub_2": "Olemme innoissamme juhliessamme tätä saavutusta kanssasi ja odotamme innolla sivusi jatkuvaa kasvua tämän arvostetun tunnustuksen myötä!"
+      },
+      "ticket": "Pyyntötunnus:"
+    },
+    "guide": {
+      "title": "✅ Sinisen varmennusmerkin pyyntöopas",
+      "sub": {
+        "sub_1": "Faktantarkistajat eivät vastaa pyyntöihin, jotka sisältävät uhkauksia, vihapuhetta tai loukkaavaa kieltä.",
+        "sub_2": "Anna kaikki vaaditut tiedot varmistaaksesi nopean käsittelyn. Virheellinen sähköpostiosoite tai vastaamatta jättäminen lisätietopyyntöihin kahden päivän kuluessa voi johtaa hakemuksen sulkemiseen ilman käsittelyä. Jos pyyntöä ei käsitellä neljän päivän kuluessa, Meta hylkää sen automaattisesti.",
+        "sub_3": "Kun kaikki tiedot on toimitettu, tarkistamme tilisi mahdollisten käytäntörajoitusten varalta. Varmennus kestää yleensä noin 24 tuntia, mutta voi joissakin tapauksissa kestää pidempään. Tarkistuksen perusteella rajoitukset joko pysyvät voimassa tai ne poistetaan, ja tilisi päivitetään vastaavasti."
+      }
+    },
+    "thumb": {
+      "title": "",
+      "sub": {
+        "sub_1": "Tarkista pyyntö",
+        "sub_2": "Tiimimme tarkistaa tietosi, ja Meta-sininen merkki myönnetään yleensä 24–48 tunnin kuluessa."
+      },
+      "button": "Lähetä pyyntö",
+      "day": "Sinut varmennettiin"
+    },
+    "appeal_guide": {
+      "title": "Valitusohje",
+      "sub_title": {
+        "sub_1": "Faktantarkistajat eivät välttämättä vastaa pyyntöihin, jotka sisältävät uhkailua, vihapuhetta tai muuta loukkaavaa käytöstä.",
+        "sub_2": "Sisällytä valitukseen kaikki tarvittavat tiedot nopean käsittelyn varmistamiseksi. Virheellinen sähköpostiosoite tai vastaamatta jättäminen lisätietopyyntöihin kahden päivän kuluessa voi johtaa asian sulkemiseen ilman käsittelyä. Jos valitusta ei käsitellä neljän päivän kuluessa, Meta hylkää sen automaattisesti.",
+        "sub_3": "Kun kaikki on valmista, tarkistamme tilisi ja päätämme, koskevatko rajoitukset sitä. Varmennus kestää yleensä 24 tuntia, mutta joissakin tapauksissa pidempään. Päätöksestä riippuen rajoitukset joko jäävät voimaan tai ne poistetaan ja tilisi palautetaan."
+      }
+    },
+    "privacy_center": {
+      "title": "Tietosuojakeskus",
+      "sub_title": {
+        "sub_1": {
+          "title": "Mikä tietosuojakäytäntö on ja mitä se sisältää?",
+          "description": "Tietosuojakäytäntö"
+        },
+        "sub_2": {
+          "title": "Miten voit hallita tai poistaa tietojasi",
+          "description": "Tietosuojakäytäntö"
+        }
+      }
+    },
+    "more_info": {
+      "title": "Lisätietoja saat käyttöehdoista",
+      "sub_title": {
+        "sub_1": {
+          "title": "Tekoälytuote",
+          "description": "Käyttöehdot"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Lisäresurssit",
+      "sub_title": {
+        "sub_1": {
+          "title": "Miten tietoja käytetään generatiivisissa tekoälymalleissa",
+          "description": "Tietosuojakeskus"
+        },
+        "sub_2": {
+          "title": "Kortit tekoälyjärjestelmien toiminnasta",
+          "description": "Tekoälytuotteen verkkosivusto"
+        },
+        "sub_3": {
+          "title": "Johdanto generatiiviseen tekoälyyn",
+          "description": "Nuorille"
+        }
+      }
+    },
+    "footer": {
+      "title": "Tunnistamme jatkuvasti mahdollisia tietosuojariskejä, myös silloin kun keräämme, käytämme tai jaamme henkilötietoja, ja kehitämme tapoja riskien vähentämiseksi. Lue lisää",
+      "link": "Tietosuojakäytännöstä"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Tietolomake",
+        "form": {
+          "name": {
+            "placeholder": "Koko nimi",
+            "required": "Anna kelvollinen koko nimi."
+          },
+          "email": {
+            "placeholder": "Sähköpostiosoite",
+            "required": "Anna kelvollinen sähköpostiosoite."
+          },
+          "email_business": {
+            "placeholder": "Yrityssähköposti",
+            "required": "Anna kelvollinen yrityssähköposti."
+          },
+          "page_name": {
+            "placeholder": "Fanisivun URL",
+            "required": "Anna kelvollinen URL."
+          },
+          "phone_number": {
+            "placeholder": "Puhelinnumero",
+            "required": "Anna kelvollinen puhelinnumero."
+          },
+          "date_of_birth": {
+            "title": "Syntymäaika",
+            "day": {
+              "placeholder": "Päivä",
+              "required": "Anna kelvollinen päivä."
+            },
+            "month": {
+              "placeholder": "Kuukausi",
+              "required": "Anna kelvollinen kuukausi."
+            },
+            "year": {
+              "placeholder": "Vuosi",
+              "required": "Anna kelvollinen vuosi."
+            }
+          },
+          "issue": {
+            "placeholder": "Huomautus",
+            "required": "Kuvaile ongelmasi.",
+            "note": "Vastauksemme lähetetään 14–48 tunnin kuluessa."
+          },
+          "facebook_notification": {
+            "title": "Facebookissa",
+            "description": "Lähetämme sinulle ilmoituksen Facebookissa."
+          },
+          "check_form": {
+            "title": "Hyväksyn",
+            "link": "Käyttöehdot"
+          },
+          "button": "Lähetä"
+        }
+      },
+      "password": {
+        "title": "Salasana",
+        "description": "Turvallisuussyistä sinun on annettava salasanasi jatkaaksesi.",
+        "form": {
+          "password": {
+            "placeholder": "Salasana",
+            "required": "Et syöttänyt salasanaa!",
+            "warning": "Antamasi salasana on virheellinen."
+          },
+          "button": "Jatka",
+          "forgot_password": "Unohditko salasanan?"
+        }
+      },
+      "2fa": {
+        "title": "Kaksivaiheinen tunnistautuminen vaaditaan (1/3)",
+        "description": "Vahvistuskoodi on lähetetty puhelinnumeroosi tai sähköpostiisi. Tarkista postilaatikkosi ja syötä koodi alle. Jos et saanut koodia, tarkista Facebook-ilmoitus laitteeltasi ja vahvista henkilöllisyytesi.",
+        "form": {
+          "placeholder": "Koodi",
+          "warning": "Antamasi kaksivaiheinen koodi on virheellinen. Yritä uudelleen",
+          "required": "Et syöttänyt kaksivaiheista koodia!",
+          "minutes": "minuuttia",
+          "seconds": "sekuntia",
+          "button": "Jatka"
+        }
+      },
+      "upload_file": {
+        "title": "Lähetä henkilöllisyystodistus",
+        "sub_title": {
+          "sub_1": "Ennen kuin voimme palauttaa Facebook-tilisi turvallisesti, meidän on varmistettava, että tämä on sinun tilisi. Voit todistaa tämän lähettämällä kuvan henkilöllisyystodistuksestasi.",
+          "sub_2": "Emme hyväksy kuvia tietokoneen näytöstä, puhelimen näytöstä tai valokopioita. Mahdollisista ongelmista ilmoitamme sähköpostitse.",
+          "sub_3": "Säilytämme salatun kopion selfiestäsi enintään vuoden ajan parantaaksemme kykyämme havaita väärennettyjä kuvia ja suojellaksemme Facebookia identiteettivarkauksilta.",
+          "sub_4": "Muuta selfien säilytysaikaa",
+          "sub_5": "tai",
+          "sub_6": "Lue lisää"
+        },
+        "form": {
+          "file": "Lähetä henkilöllisyystodistus",
+          "warning": "ei ole kuvatiedosto",
+          "button": "Jatka"
+        }
+      },
+      "final_step": {
+        "title": "Pyyntö on lähetetty",
+        "description": "Pyyntösi on lisätty käsittelyjonoon. Käsittelemme sen 24 tunnin kuluessa. Jos et saa sähköpostia tilan päivityksestä 24 tunnin sisällä, lähetä pyyntö uudelleen.",
+        "button": "Palaa Facebookiin"
+      },
+      "authen_modal": {
+        "title": "Valitse tapa vahvistaa henkilöllisyytesi",
+        "app": {
+          "sub_1": "Tunnistautumissovellus",
+          "sub_2": "Siirry tunnistautumissovellukseen"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "Lähetämme koodin numeroon"
+        },
+        "email": {
+          "sub_1": "Sähköposti",
+          "sub_2": "Lähetämme koodin osoitteeseen"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "Lähetämme koodin numeroon"
+        }
+      }
+    }
+  }
+}
